@@ -1,0 +1,9 @@
+{
+  "properties": [
+    {
+      "name": "ribbon.MaxAutoRetriesNextServer",
+      "type": "java.lang.String",
+      "description": "Description for ribbon.MaxAutoRetriesNextServer."
+    }
+  ]
+}
